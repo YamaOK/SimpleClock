@@ -2,10 +2,10 @@
 
 ## Terms of service
 
-This application is free to use.
+This application is free to use.  
 For example...
 - You can use this app on your streaming.
-- You can use customise this app by yourself.
+- You can customise this app by yourself.
 
 ## Project setup
 ```
