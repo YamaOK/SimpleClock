@@ -1,5 +1,9 @@
 # simple-clock
 
+## You can see this app in github pages
+
+[https://yamaok.github.io/SimpleClock/](https://yamaok.github.io/SimpleClock/)
+
 ## Terms of service
 
 This application is free to use.  
